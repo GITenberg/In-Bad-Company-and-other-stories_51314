@@ -1,5 +1,8 @@
 _repo: In-Bad-Company-and-other-stories_51314
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51314-h/images/cover.jpg
 creator:
   author:
     agent_name: Boldrewood, Rolf
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/549
     wikipedia: http://en.wikipedia.org/wiki/Rolf_Boldrewood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51314#In-Bad-Company-and-other-stories
 gutenberg_issued: '2016-02-27'
 gutenberg_type: Text
 identifiers:
